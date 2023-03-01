@@ -1,4 +1,4 @@
-# Dia 05 - Painéis Flexíveis
+# Desafio JavaScript - Painéis Flexíveis - Vacina
 
 ![Paineis Flexiveis](./captured.gif?raw=true "Paineis Flexiveis")
 
